@@ -24,6 +24,7 @@ We are running a chapter (club) at our college. We organize 20+ events for our 1
 What things you need to run the software:
 - A **web server** with **PHP** preferably Apache2.
 - A **MySQL Database Server**. (Done and tested on 10.4.8-MariaDB)
+- PHP Extensions [`pdo_mysql`](https://www.php.net/manual/en/ref.pdo-mysql.php), [`xdebug`](https://xdebug.org/docs/install), and [`gd`](https://www.php.net/manual/en/image.installation.php) needs to be installed.
 
 
 ### Installation
@@ -116,6 +117,9 @@ Perhaps our most desired feature, it gives an option to toggle the page between 
 | <img src="https://i.imgur.com/itX7cW9.gif" width="550"/> |
 
 
+## Got Issues?
+If you're new to the project and run into any blockers, please open an issue on this repository. We'd love to get it fixed for you! Please use the appropriate issue template as it would help us understand the issue faster.
+
 
 ## Authors
 
@@ -131,7 +135,6 @@ Perhaps our most desired feature, it gives an option to toggle the page between 
 | **Dhiraj V** | [dhirajv2000](https://github.com/dhirajv2000) | [#28](https://github.com/bearlike/REMS-For-Organisations/pull/28) |
 
 ## Acknowledgments
-
 * Hat tip to anyone whose code was used.
 
 
